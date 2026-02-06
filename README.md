@@ -48,4 +48,4 @@ Below is the hardware interfacing schematic designed in Proteus. It highlights t
 <img width="644" height="499" alt="image" src="https://github.com/user-attachments/assets/029c8bc5-b4e7-43eb-bfc8-53fa46f0303e" />
 
 ## ✅ Conclusion
-This implementation demonstrates how external hardware behavior can be managed entirely through software logic without physical rewiring. It highlights proficiency in Assembly language, I/O port addressing, and digital logic design .
+This implementation demonstrates how external hardware behavior can be managed entirely through software logic without physical rewiring. It highlights proficiency in Assembly language, I/O port addressing, and digital logic design.
